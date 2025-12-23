@@ -44,5 +44,6 @@ int main(){
         if(i==n-1) break;
         cout<<endl;
     }
+    cout<<"edit by PTAtom"; // 版权信息
     return 0;
 }
